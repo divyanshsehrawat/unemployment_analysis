@@ -26,8 +26,3 @@ The dataset was sourced from Kaggle and contains information such as:
 1. Upload the dataset.
 2. Run the Colab notebook (`unemployment_analysis.ipynb`) step by step.
 3. Visualize insights and trends.
-
-## Contact
-For questions or suggestions, contact:
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
